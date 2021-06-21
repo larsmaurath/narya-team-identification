@@ -1,4 +1,4 @@
-This is a simple extension of the Narya API that tries to automatically associate identified players to a team. It does so by identifying the main colors in the individual bounding boxes to then cluster across identified color combination for all bounding boxes (over multiple frames).
+This is a simple extension of the [Narya](https://github.com/DonsetPG/narya) API that tries to automatically associate identified players to a team. It does so by identifying the main colors in the individual bounding boxes to then cluster across identified color combination for all bounding boxes (over multiple frames).
 
 The results so far are not great, but I hope that this allows people to experiment with different configurations.
 
